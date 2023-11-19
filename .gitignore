@@ -1,0 +1,7 @@
+.env
+db.sqlite3
+Policy.md
+Procfile
+runtime.txt
+__pycache__
+*.pyc
