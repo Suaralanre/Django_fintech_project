@@ -13,7 +13,7 @@ This is a fintech application written with the django framework that allows user
 > To run this project on your local machine (**assuming you have python3.9+ installed**):
 - Create a directory for the project on your local machine(e.g.fintech_app)
 - Navigate to the folder on your terminal(e.g. cd ~/Document/fintech_app)
-- clone the project:  ###########
+- clone the project: ```git@github.com:Suaralanre/Django_fintech_project.git```
 - create a virtual environment: ```python3 -m venv .venv```
 - run the following commands:
 > - ```pip -r install requirements.txt```
