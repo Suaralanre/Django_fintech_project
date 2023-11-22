@@ -16,7 +16,7 @@ This is a fintech application written with the django framework that allows user
 - clone the project: ```git@github.com:Suaralanre/Django_fintech_project.git```
 - create a virtual environment: ```python3 -m venv .venv```
 - run the following commands:
-> - ```pip -r install requirements.txt```
+> - ```pip install -r requirements.txt```
 > - ```python manage.py makemigrations``` 
 > - ```python manage.py migrate``` 
 - start your [localhost](http:127.0.0.1:8000)
@@ -30,4 +30,5 @@ This is a fintech application written with the django framework that allows user
 - Improve the look of the front-end.
 
 
-> Please feel free to create an issue to make contributions/criticisms of the project. If you prefer to be anonymous, please feel free to leave a message via [my email](mailto:lanresuara@gmail.com) Cheers.
+> Please feel free to create an issue to make contributions/criticisms of the project. If you prefer to be anonymous, please feel free to leave a message via [my email](mailto:lanresuara@gmail.com)
+> Cheers.
