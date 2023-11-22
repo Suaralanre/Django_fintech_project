@@ -30,5 +30,5 @@ This is a fintech application written with the django framework that allows user
 - Improve the look of the front-end.
 
 
-> Please feel free to create an issue to make contributions/criticisms of the project. If you prefer to be anonymous, please feel free to leave a message via [my email](mailto:lanresuara@gmail.com)
+> Please feel free to create an issue to make contributions/criticisms of the project. If you prefer to be anonymous, please feel free to leave a message via [my email](mailto:lanresuara@gmail.com) <br>
 > Cheers.
